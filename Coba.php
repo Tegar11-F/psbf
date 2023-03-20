@@ -28,4 +28,5 @@ class Coba extends BaseController
         return view('v_coba',$data);
     }
     ##COBAAAAAAA
+    ##COBAAAAAAA2
 }
